@@ -16,6 +16,7 @@ eureka:
 
 # 自定義配置
 name: order-service-prod
+password: '{cipher}AYAI/ViNkLh04nQOnxf0pCRPIgBlkC39yIKfvrU45+zF5UcZs84a6X5JOoz+Dd+Kg6Q+QJU+isN7iCuM/R357750/cZ72/lN+eLfY3S3UX8qrve7uY21917a4IvMjwNSczm14jLBWV2VBErgIVLbOzWYz3Q37O8mPxsG0PI4fks7d6/LU+GzF5cThvi0ChHnFpGzJ2rpt+lc68WAXK7ya3jUz8xlGFg+QE+je3xkNeSNjTEL4EF47EHherXkgBiGjvnCYG7+Oy+gMVfldHojZrlNbLGTTtOzdohTkiV8nW3AQViSY/kBNn0zpRDcdwag/jdsMOoh7h0A5kr+ieQy1xpPNtVtrIAhv/80N67x2EGMf3IpT4tCiXFQywPJu2WM62MZY6/E/Qm5y0AGtRwipkdM8xxIJwI2SK21cFHVcvwFTfPvnWg0iyXTYaIH9aDBZR900Qzf2ggCK+gOcdbuT6thgv9lbcwmj/cBG8Yb7tKv1SOPi8tAdXS+GScEFflMac0WNNdGmi02M0zD8jqKYu+u7eu2j+R2ZK8PuEfUbeQHsg=='
 
 
 
