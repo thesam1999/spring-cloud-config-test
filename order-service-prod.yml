@@ -5,7 +5,7 @@ spring:
   application:
     name: order-service  # 應用名稱
 
-#配置Eureka配置中心
+#配置Eureka Service 註冊中心
 eureka:
   instance:
     prefer-ip-address: true     # 是否使用 ip 地址註冊
@@ -16,5 +16,6 @@ eureka:
 
 # 自定義配置
 name: order-service-prod
+
 
 
